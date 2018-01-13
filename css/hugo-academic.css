@@ -311,6 +311,7 @@ ul.ul-interests li {
 
 ul.ul-edu {
   list-style: none;
+      text-align: justify;
 }
 
 ul.ul-edu li {
