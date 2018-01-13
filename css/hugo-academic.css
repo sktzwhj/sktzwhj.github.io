@@ -250,7 +250,7 @@ blockquote p:last-child {
  **************************************************/
 
 #profile {
-  text-align: justify;
+  text-align: center;
   padding: 30px 10px;
   position: relative;
 }
