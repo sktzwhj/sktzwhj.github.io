@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   margin-bottom: .5rem;
-  line-height: 1.25;
+  line-height: 1.00;
   color: #313131;
   text-rendering: optimizeLegibility;
 }
@@ -306,7 +306,7 @@ blockquote p:last-child {
 }
 
 ul.ul-interests li {
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 
 ul.ul-edu {
