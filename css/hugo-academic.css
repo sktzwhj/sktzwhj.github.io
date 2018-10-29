@@ -1,3 +1,22 @@
+Skip to content
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @sktzwhj
+Sign out
+ Watch 1
+ Star 2  Fork 0 xunyunliu/xunyunliu.github.io
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
+Branch: master Find file Copy path xunyunliu.github.io/css/hugo-academic.css
+98ecb9c  on 6 Sep 2017
+@xunyunliu xunyunliu upgrade theme
+1 contributor
+RawBlameHistory    
+1118 lines (934 sloc)  19.1 KB
 /*************************************************
  *  Hugo Academic: an academic theme for Hugo.
  *  Designed by @GeorgeCushen.
@@ -21,10 +40,10 @@
 }
 
 html {
-  font-family: 'Helvetica';
-  font-size: 14px;
+  font-family: 'Merriweather', serif;
+  font-size: 16px;
   color: rgba(0,0,0,0.8);
-  line-height: 1.15;
+  line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
@@ -33,7 +52,6 @@ html {
 }
 
 body {
-    
   font-family: inherit;
   font-size: 1rem;
   line-height: inherit;
@@ -78,11 +96,11 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 1.55rem;
+  font-size: 2.25rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
 }
 h3 {
   font-weight: 700;
@@ -239,7 +257,7 @@ blockquote p:last-child {
 }
 
 .section-heading p {
-  font-family: 'monaco';
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
   font-size: 1.1rem;
   color: #b2b2b2;
@@ -306,12 +324,11 @@ blockquote p:last-child {
 }
 
 ul.ul-interests li {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 ul.ul-edu {
   list-style: none;
-      text-align: justify;
 }
 
 ul.ul-edu li {
@@ -443,6 +460,7 @@ article {
 .article-metadata {
   margin-bottom: 20px;
   line-height: 30px; /* Match share bar line height. */
+  overflow: hidden;
   font-size: 14px;
   letter-spacing: 0.03em;
   color: #888;
@@ -521,7 +539,7 @@ article {
 }
 
 .pub .pub-authors {
-  font-style: monaco;
+  font-style: italic;
   line-height: 30px; /* Match share bar line height. */
 }
 
@@ -1116,3 +1134,16 @@ div.alert a:hover {
   background-color: #f44336; /* Material Red500 */
   border-color: #ebccd1;
 }
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
