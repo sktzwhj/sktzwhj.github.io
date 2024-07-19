@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+
+
+<div style="text-align: justify;">
 I am currently an assistant professor with the the College of Computer Science, National University of Defense Technology (NUDT). I obtained my PhD at University of New South Wales (UNSW) in August, 2019. 
 
 My academic research interests mainly focus on the reliability and robustness of machine learning models, as well as the application of AI methods in the design of storage systems. Currently, my work primarily involves optimizing parallel file systems in high-performance computing systems. I have published papers in the aforementioned fields, including major AI and data mining conferences and journals such as IJCAI, WWW, ACM MM, ECML/PKDD, ECAI, ACM TWEB, as well as systems conferences and journals like TPDS, MSST, CLUSTER, ICDCS, and CCGrid. 
 
-We always welcome self-motivated students to join us.
+We always welcome self-motivated students to join us.</div>
 
 
 Welcome to contact me!
