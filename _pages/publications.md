@@ -30,4 +30,5 @@ author_profile: true
   * **Huijun Wu**, Chen Wang, Kai Lu, Yinjin Fu, Liming Zhu. One size does not fit all: The case for chunking configuration in backup deduplication. CCGrid 2018 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/CCGRID18.pdf)
   *  **Huijun Wu**, Chen Wang, Jie Yin, Kai Lu, Liming Zhu. Sharing deep neural network models with interpretation. WWW 2018 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/WWW18.pdf)
   * **Huijun Wu**, Chen Wang, Yinjin Fu, Sherif Sakr, Liming Zhu, Kai Lu. Hpdedup: A hybrid prioritized data deduplication mechanism for primary storage in the cloud. MSST 2017 (**CCF-B**). [[Paper]](https://msstconference.org/MSST-history/2017/index.html)
+  * Dongyao Wu, Sherif Sakr, Liming Zhu, **Huijun Wu**. Towards big data analytics across multiple clusters. CCGrid 2017 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/CCGRID17.pdf)
 
