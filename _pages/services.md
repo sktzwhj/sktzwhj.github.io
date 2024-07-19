@@ -13,18 +13,13 @@ redirect_from:
 Services
 ======
 * PC Members
-  * AAAI 
-  * IJCAI
-  * ICASSP
-  * PAKDD 
-  * IEEE DSC workshop on VAAL 2018
+  * ECAI
+  * ICONIP
 * Reviewer
-  * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  * ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
-  * IEEE Intelligent Systems
-  * Artificial Intelligence Review
-  * International Journal of Data Science and Analytics (JDSA)
+  * IEEE Transactions on Knowledge Discovery and Data Engineering (TKDE)
+  * Journal of Supercomputing
+  * IEEE Internet of Things Journal 
+
 
 
 
