@@ -22,18 +22,18 @@ Email: wuhuijun[at]nudt[dot]edu[dot]cn
 
 News
 ========
-* Two papers on data clustering were accepted by ACM MM 2024. 
-* One paper on large-scale data dispatching for HPC was accpeted by CLUSTER 2024.
-* One paper on generalized adversarial defense for GNNs was accepted by ECAI 2024.
-* One paper HPC I/O configuration optimizations was accepted by CLUSTER 2023.
-* One paper heterophilic graph learning was accepted by ECML/PKDD 2023.
-* Our paper on adversarial defense for GNNs was accepted by JCST.
-* One paper on interpretable model sharing was accepted by ACM TWEB.
-* One paper on adversarial robustness for GNNs was accepted by IJCAI 2019.
-* One paper on chunking configuration for backup deduplication fwas accepted by CCGrid 2018.
-* Our paper on interpretable model sharing was accepted by WWW 2018.
-* Our paper on caching design for deduplicated storage was accepted by TPDS.
-* Our paper on primary storage deduplication was accepted by MSST 2017.
+* 07/2024. Two papers on data clustering were accepted by ACM MM 2024. 
+* 07/2024. One paper on large-scale data dispatching for HPC was accpeted by CLUSTER 2024.
+* 07/2024. One paper on generalized adversarial defense for GNNs was accepted by ECAI 2024.
+* 07/2023. One paper HPC I/O configuration optimizations was accepted by CLUSTER 2023.
+* 04/2023. One paper heterophilic graph learning was accepted by ECML/PKDD 2023.
+* 09/2022. Our paper on adversarial defense for GNNs was accepted by JCST.
+* 02/2020. One paper on interpretable model sharing was accepted by ACM TWEB.
+* 05/2019. One paper on adversarial robustness for GNNs was accepted by IJCAI 2019.
+* 01/2018. One paper on chunking configuration for backup deduplication fwas accepted by CCGrid 2018.
+* 01/2018. Our paper on caching design for deduplicated storage was accepted by TPDS.
+* 11/2017. Our paper on interpretable model sharing was accepted by WWW 2018.
+* 02/2017. Our paper on primary storage deduplication was accepted by MSST 2017.
 
 
 
