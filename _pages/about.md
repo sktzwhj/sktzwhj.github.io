@@ -17,7 +17,7 @@ We always welcome self-motivated students to join us.
 
 Welcome to contact me!
 
-Email: wuhuijun@nudt.edu.cn
+Email: wuhuijun[at]nudt[dot]edu[dot]cn
 
 
 News
