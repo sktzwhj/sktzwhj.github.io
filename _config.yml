@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Huijun Wu"
-  avatar           : "photo.jpg"
+  avatar           : "http://sktzwhj.github.io/images/photo.jpg"
   bio              : "Assistant Professor at NUDT"
   location         : "Changsha"
   employer         :
