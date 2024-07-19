@@ -7,37 +7,33 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research associate with the College of Computer, National University of Defense Technology (NUDT). I got my PhD at NUDT in 06/2019 and my bachelor's degree at NUDT in 06/2013. I was visiting the Advanced Analytics Institute, University of Technology Sydney (UTS) during 09/2016-09/2018. 
 
-My research interests include machine learning, representation learning, outlier detection, network/graph representation,  mulitmodal learning and system software for AI. I have published more than 30 high-quality research papers in these areas, most of which were published at premier data science and AI conferences or journals, like AAAI, ICML, The ACM Web Conference, IJCAI, CIKM, IEEE TKDE and Computer & Security. I have generally served as a PC member at over 10 premier international conferences including AAAI, IJCAI and a reviewer for more than 10 prestigious journals including IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IPM etc.
+I am currently an assistant professor with the the College of Computer Science, National University of Defense Technology (NUDT). I obtained my PhD at University of New South Wales (UNSW) in August, 2019. 
 
-I am always seeking highly self-motivated students for PhD, Master by Research. 
+My academic research interests mainly focus on the reliability and robustness of machine learning models, as well as the application of AI methods in the design of storage systems. Currently, my work primarily involves optimizing parallel file systems in high-performance computing systems. I have published papers in the aforementioned fields, including major AI and data mining conferences and journals such as IJCAI, WWW, ACM MM, ECML/PKDD, ECAI, ACM TWEB, as well as systems conferences and journals like TPDS, MSST, CLUSTER, ICDCS, and CCGrid. 
+
+We always welcome self-motivated students to join us.
+
 
 Welcome to contact me!
 
-Email: jiansonglei@nudt.edu.cn
+Email: wuhuijun@nudt.edu.cn
 
 
 News
 ========
-* One paper on unsupervised time series anomaly detection has been accepted by TKDE.
-* The paper accepted by ICASSP 2024 has be selected as one of the **ICASSP 2024 Best Student Papers**!
-* One paper on multimodal fake news detection has been accepted by Information Processing & Management.
-* One paper on log anomaly detection has been accepted by ISSRE 2023.
-* One paper on semi-supervised anomaly detection has beeen accepted by Information Processing & Management.
-* One paper on unsupervised anomaly detection has beeen accepted by ICML 2023.
-* One paper on multimodal fake news detection has beeen accepted by ICASSP 2023.
-* One paper on unsupervised network intrusion detection has been accepted by Computer & Security.
-* One paper on unsupervised time series anomaly detection has release the source code.
-* One paper on graph pooling has been accepted by CIKM 2022.
-* One paper on graph representation has been accepted by TKDE.
-* One paper on network intrusion detection system has been accepted by Computer&Security (Our first attempt of utilizing representation learning to solve the intrusion detection problem).
-* One paper on few-shot learning has been accepted by CVPR 2021.
-* One paper on outlier interpretation  has been accepted by WWW 2021.
-* One paper on representation learning for heterogeneous domains has been accepted by AAAI 2020.
-* Two papers on network representation and recommender system have been accepted by AAAI 2019.
-* Our paper on categorical data representation was accepted by TKDE.
-* We presented tutorial on PAKDD 2018 at Melbourne, Australia.
+* Two papers on data clustering were accepted by ACM MM. 
+* One paper large-scale data dispatching was accpeted by CLUSTER 2024.
+* One paper on generalized adversarial defense for GNNs was accepted by ECAI 2024.
+* One paper HPC I/O configuration optimizations was accepted by CLUSTER 2023.
+* One paper heterophilic graph learning was accepted by ECML/PKDD 2023.
+* Our paper on adversarial defense for GNNs was accepted by JCST.
+* One paper on interpretable model sharing was accepted by ACM TWEB.
+* One paper on adversarial robustness for GNNs was accepted by IJCAI 2019.
+* One paper on chunking configuration for backup deduplication fwas accepted by CCGrid 2018.
+* Our paper on interpretable model sharing was accepted by WWW 2018.
+* Our paper on caching design for deduplicated storage was accepted by TPDS.
+* Our paper on primary storage deduplication was accepted by MSST 2017.
 
 
 
