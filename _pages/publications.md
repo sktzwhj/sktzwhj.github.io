@@ -18,6 +18,7 @@ author_profile: true
   * Xugang Wu, **Huijun Wu**, Xu Zhou, Xiang Zhao, Kai Lu. Towards defense against adversarial attacks on graph neural networks via calibrated co-training. Journal of Computer Science and Technology  (2022) (**CCF-B**).[[Paper]](http://sktzwhj.github.io/files/JCST22.pdf)
   * **Huijun Wu**, Chen Wang, Richard Nock, Wei Wang, Jie Yin, Kai Lu, Liming Zhu. SMINT: Toward interpretable and robust model sharing for deep neural networks. ACM Transactions on the Web (2020) (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/TWEB20.pdf)
   * **Huijun Wu**, Chen Wang, Yinjin Fu, Sherif Sakr, Kai Lu, Liming Zhu. A differentiated caching mechanism to enable primary storage deduplication in clouds. IEEE Transactions on Parallel and Distributed Systems (2018) (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS18.pdf)
+  * 王睿伯, 吴振伟, 张文喆, **邬会军**, 张于舒晴, 卢凯. 基于内存保护键值的细粒度访存监控. 计算机工程与科学 （2024）(**CCF-C(中文)**).
 
 
 
