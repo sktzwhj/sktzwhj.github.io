@@ -30,7 +30,7 @@ News
 * 09/2022. Our paper on adversarial defense for GNNs was accepted by JCST.
 * 02/2020. One paper on interpretable model sharing was accepted by ACM TWEB.
 * 05/2019. One paper on adversarial robustness for GNNs was accepted by IJCAI 2019.
-* 01/2018. One paper on chunking configuration for backup deduplication fwas accepted by CCGrid 2018.
+* 01/2018. One paper on chunking configuration for backup deduplication was accepted by CCGrid 2018.
 * 01/2018. Our paper on caching design for deduplicated storage was accepted by TPDS.
 * 11/2017. Our paper on interpretable model sharing was accepted by WWW 2018.
 * 02/2017. Our paper on primary storage deduplication was accepted by MSST 2017.
