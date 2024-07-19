@@ -29,7 +29,7 @@ author_profile: true
   *  Rimmal Nadeem, **Huijun Wu**, Hye-young Paik, Chen Wang. A case based deep neural network interpretability framework and its user study. WISE 2019 (**CCF-C**). [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-34223-4_10)
   * **Huijun Wu**, Chen Wang, Kai Lu, Yinjin Fu, Liming Zhu. One size does not fit all: The case for chunking configuration in backup deduplication. CCGrid 2018 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/CCGRID18.pdf)
   *  **Huijun Wu**, Chen Wang, Jie Yin, Kai Lu, Liming Zhu. Sharing deep neural network models with interpretation. WWW 2018 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/WWW18.pdf)
-  * Dongyao Wu, Sherif Sakr, Liming Zhu, Sung Lee, **Huijun Wu**. HDM-MC in-Action: A framework for big data analytics across multiple clusters. ICDCS 2018 (Demo).  [[Paper]](http://sktzwhj.github.io/files/ICDCS18.pdf)
+  * Dongyao Wu, Sherif Sakr, Liming Zhu, Sung Lee, **Huijun Wu**. HDM-MC in-Action: A framework for big data analytics across multiple clusters. ICDCS 2018 (**CCF-B**,Demo).  [[Paper]](http://sktzwhj.github.io/files/ICDCS18.pdf)
   * **Huijun Wu**, Chen Wang, Yinjin Fu, Sherif Sakr, Liming Zhu, Kai Lu. Hpdedup: A hybrid prioritized data deduplication mechanism for primary storage in the cloud. MSST 2017 (**CCF-B**). [[Paper]](https://msstconference.org/MSST-history/2017/index.html)
   * Dongyao Wu, Sherif Sakr, Liming Zhu, **Huijun Wu**. Towards big data analytics across multiple clusters. CCGrid 2017 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/CCGRID17.pdf)
 
