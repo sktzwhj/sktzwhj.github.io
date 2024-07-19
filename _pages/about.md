@@ -25,8 +25,8 @@ Email: wuhuijun@nudt.edu.cn
 
 News
 ========
-* Two papers on data clustering were accepted by ACM MM. 
-* One paper large-scale data dispatching was accpeted by CLUSTER 2024.
+* Two papers on data clustering were accepted by ACM MM 2024. 
+* One paper on large-scale data dispatching for HPC was accpeted by CLUSTER 2024.
 * One paper on generalized adversarial defense for GNNs was accepted by ECAI 2024.
 * One paper HPC I/O configuration optimizations was accepted by CLUSTER 2023.
 * One paper heterophilic graph learning was accepted by ECML/PKDD 2023.
