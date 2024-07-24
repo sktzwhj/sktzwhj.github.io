@@ -16,7 +16,7 @@ author_profile: true
 
 
 * Conference papers
-  * Mingtian Shao, Wenzhe Zhang, Ruibo Wang, Huijun Wu, Yiqin Dai and Kai Lu. Fully Decentralized Data Distribution for Exascale-HPC: End of the Provider-Demander Matching Puzzle. CLUSTER 2024 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/CLUSTER24.pdf)
+  * Mingtian Shao, Wenzhe Zhang, Ruibo Wang, **Huijun Wu**, Yiqin Dai and Kai Lu. Fully Decentralized Data Distribution for Exascale-HPC: End of the Provider-Demander Matching Puzzle. CLUSTER 2024 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/CLUSTER24.pdf)
   * Duanyu Li, **Huijun Wu**, Min Xie, Xugang Wu, Zhenwei Wu and Wenzhe Zhang. Talos: A More Effective and Efficient Adversarial Defense for GNN Models Based on the Global Homogeneity of Graphs. ECAI 2024 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/ECAI24.pdf)
   * Zhangyu Liu, Cheng Zhang, **Huijun Wu**, Jianbin Fang, Lin Peng, Guixin Ye, Zhanyong Tang. Optimizing HPC I/O Performance with Regression Analysis and Ensemble Learning. CLUSTER 2023 (**CCF-B**). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10319976/)
   * Xugang Wu, **Huijun Wu**, Ruibo Wang, Duanyu Li, Xu Zhou, Kai Lu. Leveraging free labels to power up heterophilic graph learning in weakly-supervised settings: An empirical study. ECML/PKDD 2023 (**CCF-B**). [[Paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-43418-1_9)
