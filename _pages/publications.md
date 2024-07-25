@@ -16,6 +16,8 @@ author_profile: true
 
 
 * Conference papers
+  * Xihong Yang, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, Huijun Wu, Xinwang Liu, En Zhu: GraphLearner: Graph Node Clustering with Fully Learnable Augmentation. ACM MM 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/MM24-2.pdf)
+  * Huimin Ma, Siwei Wang, Shengju Yu, Suyuan Liu, Jun-Jie Huang, **Huijun Wu**, Xinwang Liu, En Zhu: Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering. ACM MM 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/MM24-1.pdf)
   * Mingtian Shao, Wenzhe Zhang, Ruibo Wang, **Huijun Wu**, Yiqin Dai and Kai Lu. Fully Decentralized Data Distribution for Exascale-HPC: End of the Provider-Demander Matching Puzzle. CLUSTER 2024 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/CLUSTER24.pdf)
   * Duanyu Li, **Huijun Wu**, Min Xie, Xugang Wu, Zhenwei Wu and Wenzhe Zhang. Talos: A More Effective and Efficient Adversarial Defense for GNN Models Based on the Global Homogeneity of Graphs. ECAI 2024 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/ECAI24.pdf)
   * Zhangyu Liu, Cheng Zhang, **Huijun Wu**, Jianbin Fang, Lin Peng, Guixin Ye, Zhanyong Tang. Optimizing HPC I/O Performance with Regression Analysis and Ensemble Learning. CLUSTER 2023 (**CCF-B**). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10319976/)
