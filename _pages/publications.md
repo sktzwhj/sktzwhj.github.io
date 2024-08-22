@@ -17,7 +17,7 @@ author_profile: true
 
 * Conference papers
 
-  Wanxin Wang, **Huijun Wu**, Lihua Yang, Zhangyu Liu and Bin Zheng. AIO:Automating I/O Optimization Pipeline for Data-Intensive Applications in HPC. ISPA 2024 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/ISPA24.pdf) 
+  * Wanxin Wang, **Huijun Wu**, Lihua Yang, Zhangyu Liu and Bin Zheng. AIO:Automating I/O Optimization Pipeline for Data-Intensive Applications in HPC. ISPA 2024 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/ISPA24.pdf) 
   * Xihong Yang, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, **Huijun Wu**, Xinwang Liu, En Zhu: GraphLearner: Graph Node Clustering with Fully Learnable Augmentation. ACM MM 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/MM24-2.pdf)
   * Huimin Ma, Siwei Wang, Shengju Yu, Suyuan Liu, Jun-Jie Huang, **Huijun Wu**, Xinwang Liu, En Zhu: Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering. ACM MM 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/MM24-1.pdf)
   * Mingtian Shao, Wenzhe Zhang, Ruibo Wang, **Huijun Wu**, Yiqin Dai and Kai Lu. Fully Decentralized Data Distribution for Exascale-HPC: End of the Provider-Demander Matching Puzzle. CLUSTER 2024 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/CLUSTER24.pdf)
