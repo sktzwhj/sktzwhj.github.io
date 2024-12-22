@@ -16,7 +16,7 @@ author_profile: true
 
 
 * Conference papers
-
+  * Yiqin Dai, Ruibo Wang, Yong Dong, Kai Lu, Juan Chen, **Huijun Wu**, Lihua Yang, Yuqi Li, Mingtian Shao. Towards Highly Compatible I/O-Aware Workflow Scheduling on HPC Systems. SC 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/SC24.pdf) 
   * Wanxin Wang, **Huijun Wu**, Lihua Yang, Zhangyu Liu and Bin Zheng. AIO:Automating I/O Optimization Pipeline for Data-Intensive Applications in HPC. ISPA 2024 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/ISPA24.pdf) 
   * Xihong Yang, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, **Huijun Wu**, Xinwang Liu, En Zhu: GraphLearner: Graph Node Clustering with Fully Learnable Augmentation. ACM MM 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/MM24-2.pdf)
   * Huimin Ma, Siwei Wang, Shengju Yu, Suyuan Liu, Jun-Jie Huang, **Huijun Wu**, Xinwang Liu, En Zhu: Automatic and Aligned Anchor Learning Strategy for Multi-View Clustering. ACM MM 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/MM24-1.pdf)
@@ -37,6 +37,7 @@ author_profile: true
 
 
 * Journal papers
+  * Zhangyu Liu, Jinqiu Wang, **Huijun Wu**, Qingzhen Ma, Lin Peng, Zhanyong Tang. Auto-tuning for HPC storage stack: an optimization perspective. CCF Transactions on High Performance Computing (2024) **CCF-C**).[[Paper]](http://sktzwhj.github.io/files/THPC24.pdf) 
   * Xugang Wu, **Huijun Wu**, Ruibo Wang, Xu Zhou, Kai Lu.Towards adaptive graph neural networks via solving prior-data conflicts. Frontiers of Information Technology & Electronic Engineering (2024) (**CCF-C**).[[Paper]](http://sktzwhj.github.io/files/FITEE24.pdf) 
   * Xugang Wu, **Huijun Wu**, Xu Zhou, Xiang Zhao, Kai Lu. Towards defense against adversarial attacks on graph neural networks via calibrated co-training. Journal of Computer Science and Technology  (2022) (**CCF-B**).[[Paper]](http://sktzwhj.github.io/files/JCST22.pdf)
   * **Huijun Wu**, Chen Wang, Richard Nock, Wei Wang, Jie Yin, Kai Lu, Liming Zhu. SMINT: Toward interpretable and robust model sharing for deep neural networks. ACM Transactions on the Web (2020) (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/TWEB20.pdf)
