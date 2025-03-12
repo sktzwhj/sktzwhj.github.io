@@ -22,6 +22,7 @@ Email: wuhuijun[at]nudt[dot]edu[dot]cn
 
 News
 ========
+* 03/2025. One paper on collaborative burst buffer for HPC systems was accepted by ACM ICS 2025. 
 * 07/2024. Two papers on data clustering were accepted by ACM MM 2024. 
 * 07/2024. One paper on large-scale data dispatching for HPC was accpeted by CLUSTER 2024.
 * 07/2024. One paper on generalized adversarial defense for GNNs was accepted by ECAI 2024.
