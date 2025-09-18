@@ -16,7 +16,7 @@ author_profile: true
 
 
 * Conference papers
-
+  * Jiyuan Liu, Xinwang Liu, Xinhang Wan, KE Liang, Weixuan Liang, Sihang Zhou, **Huijun Wu**, Kehua Guo. Incomplete Multi-view Deep Clustering with Data Imputation and Alignment. Accepted by NeurIPS 2025 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/NeurIPS25.pdf)
   * Mingtian Shao, Ruibo Wang, Wenzhe Zhang, Kai Lu, Yiqin Dai, **Huijun Wu (corresponding author)**. From Islands to Archipelago: Towards Collaborative and Adaptive Burst Buffer for HPC Systems. Accepted by ACM ICS 2025 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/ICS2025.pdf) 
   * Wanxin Wang, **Huijun Wu (corresponding author)**, Lihua Yang, Zhangyu Liu and Bin Zheng. AIO:Automating I/O Optimization Pipeline for Data-Intensive Applications in HPC. ISPA 2024 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/ISPA24.pdf) 
   * Xihong Yang, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, **Huijun Wu**, Xinwang Liu, En Zhu: GraphLearner: Graph Node Clustering with Fully Learnable Augmentation. ACM MM 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/MM24-2.pdf)
@@ -38,10 +38,12 @@ author_profile: true
 
 
 * Journal papers
+  * Yiqin Dai, Yong Dong, Min Xie, Wenzhe Zhang, **Huijun Wu**, Mingtian Shao, Kai Lu. MIST: Towards MPI Instant Startup and Termination on Tianhe HPC Systems. IEEE Transactions on Parallel and Distributed Systems (2025). [[Paper]](http://sktzwhj.github.io/files/TPDS25.pdf) 
   * Zhangyu Liu, Jinqiu Wang, **Huijun Wu**, Qingzhen Ma, Lin Peng, Zhanyong Tang. Auto-tuning for HPC storage stack: an optimization perspective. CCF Transactions on High Performance Computing (2024) **CCF-C**).[[Paper]](http://sktzwhj.github.io/files/THPC24.pdf) 
   * Xugang Wu, **Huijun Wu**, Ruibo Wang, Xu Zhou, Kai Lu.Towards adaptive graph neural networks via solving prior-data conflicts. Frontiers of Information Technology & Electronic Engineering (2024) (**CCF-C**).[[Paper]](http://sktzwhj.github.io/files/FITEE24.pdf) 
   * Xugang Wu, **Huijun Wu**, Xu Zhou, Xiang Zhao, Kai Lu. Towards defense against adversarial attacks on graph neural networks via calibrated co-training. Journal of Computer Science and Technology  (2022) (**CCF-B**).[[Paper]](http://sktzwhj.github.io/files/JCST22.pdf)
   * **Huijun Wu**, Chen Wang, Richard Nock, Wei Wang, Jie Yin, Kai Lu, Liming Zhu. SMINT: Toward interpretable and robust model sharing for deep neural networks. ACM Transactions on the Web (2020) (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/TWEB20.pdf)
   * **Huijun Wu**, Chen Wang, Yinjin Fu, Sherif Sakr, Kai Lu, Liming Zhu. A differentiated caching mechanism to enable primary storage deduplication in clouds. IEEE Transactions on Parallel and Distributed Systems (2018) (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS18.pdf)
   * 王睿伯, 吴振伟, 张文喆, **邬会军**, 张于舒晴, 卢凯. 基于内存保护键值的细粒度访存监控. 计算机工程与科学 （2024）(**CCF-C(中文)**).[[Paper]](https://www.cnki.com.cn/Article/CJFDTotal-JSJK202401003.htm)
+  * 董勇， **邬会军(通信作者)**， 杨梨花， 张伟， 王睿伯， 周恩强, 卢凯. 基于天河互连的并行文件系统网络驱动. 计算机工程与科学 （2025）(**CCF-C(中文)**).[[Paper]](https://www.cnki.com.cn/Article/CJFDTotal-JSJK202401003.htm)
 
