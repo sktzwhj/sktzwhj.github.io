@@ -16,7 +16,7 @@ author_profile: true
 
 
 * Conference papers
-  * Jiyuan Liu, Xinwang Liu, Xinhang Wan, KE Liang, Weixuan Liang, Sihang Zhou, **Huijun Wu**, Kehua Guo. Incomplete Multi-view Deep Clustering with Data Imputation and Alignment. Accepted by NeurIPS 2025 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/NeurIPS25.pdf)
+  * Jiyuan Liu, Xinwang Liu, Xinhang Wan, Ke Liang, Weixuan Liang, Sihang Zhou, **Huijun Wu**, Kehua Guo. Incomplete Multi-view Deep Clustering with Data Imputation and Alignment. Accepted by NeurIPS 2025 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/NeurIPS25.pdf)
   * Mingtian Shao, Ruibo Wang, Wenzhe Zhang, Kai Lu, Yiqin Dai, **Huijun Wu (corresponding author)**. From Islands to Archipelago: Towards Collaborative and Adaptive Burst Buffer for HPC Systems. Accepted by ACM ICS 2025 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/ICS2025.pdf) 
   * Wanxin Wang, **Huijun Wu (corresponding author)**, Lihua Yang, Zhangyu Liu and Bin Zheng. AIO:Automating I/O Optimization Pipeline for Data-Intensive Applications in HPC. ISPA 2024 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/ISPA24.pdf) 
   * Xihong Yang, Erxue Min, Ke Liang, Yue Liu, Siwei Wang, Sihang Zhou, **Huijun Wu**, Xinwang Liu, En Zhu: GraphLearner: Graph Node Clustering with Fully Learnable Augmentation. ACM MM 2024 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/MM24-2.pdf)
