@@ -38,8 +38,8 @@ author_profile: true
 
 
 * Journal papers
-  * Yiqin Dai, Yong Dong, Min Xie, Wenzhe Zhang, **Huijun Wu**, Mingtian Shao, Kai Lu. MIST: Towards MPI Instant Startup and Termination on Tianhe HPC Systems. IEEE Transactions on Parallel and Distributed Systems (2025). [[Paper]](http://sktzwhj.github.io/files/TPDS25.pdf) 
-  * Zhangyu Liu, Jinqiu Wang, **Huijun Wu**, Qingzhen Ma, Lin Peng, Zhanyong Tang. Auto-tuning for HPC storage stack: an optimization perspective. CCF Transactions on High Performance Computing (2024) **CCF-C**).[[Paper]](http://sktzwhj.github.io/files/THPC24.pdf) 
+  * Yiqin Dai, Yong Dong, Min Xie, Wenzhe Zhang, **Huijun Wu**, Mingtian Shao, Kai Lu. MIST: Towards MPI Instant Startup and Termination on Tianhe HPC Systems. IEEE Transactions on Parallel and Distributed Systems (2025)（**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS25.pdf) 
+  * Zhangyu Liu, Jinqiu Wang, **Huijun Wu**, Qingzhen Ma, Lin Peng, Zhanyong Tang. Auto-tuning for HPC storage stack: an optimization perspective. CCF Transactions on High Performance Computing (2024) （**CCF-C**).[[Paper]](http://sktzwhj.github.io/files/THPC24.pdf) 
   * Xugang Wu, **Huijun Wu**, Ruibo Wang, Xu Zhou, Kai Lu.Towards adaptive graph neural networks via solving prior-data conflicts. Frontiers of Information Technology & Electronic Engineering (2024) (**CCF-C**).[[Paper]](http://sktzwhj.github.io/files/FITEE24.pdf) 
   * Xugang Wu, **Huijun Wu**, Xu Zhou, Xiang Zhao, Kai Lu. Towards defense against adversarial attacks on graph neural networks via calibrated co-training. Journal of Computer Science and Technology  (2022) (**CCF-B**).[[Paper]](http://sktzwhj.github.io/files/JCST22.pdf)
   * **Huijun Wu**, Chen Wang, Richard Nock, Wei Wang, Jie Yin, Kai Lu, Liming Zhu. SMINT: Toward interpretable and robust model sharing for deep neural networks. ACM Transactions on the Web (2020) (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/TWEB20.pdf)
