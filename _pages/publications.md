@@ -17,8 +17,7 @@ author_profile: true
 
 * Conference papers
   * Duanyu Li , **Huijun Wu (co-first and corresponding author)**, Min Xie, Kai Lu, Wenzhe Zhang, Zhenwei Wu, Yong Dong, Ruibo Wang. DeloopSGNN: Revisiting Spectral GNNs through the Lens of Spatial Aggregation. AAAI 2026 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/AAAI26.pdf)
-  * Zhaohao Zhong , **Huijun Wu (corresponding author)**, Min Xie, Yong Dong, Wenzhe Zhang, Zhenwei Wu, Lihua Yang, Ruibo Wang. MergeFS: Optimizing Node-Local Burst Buffers for
-  Complex HPC Workflows.  ICPADS 2025 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/ICPADS25.pdf)
+  * Zhaohao Zhong , **Huijun Wu (corresponding author)**, Min Xie, Yong Dong, Wenzhe Zhang, Zhenwei Wu, Lihua Yang, Ruibo Wang. MergeFS: Optimizing Node-Local Burst Buffers for Complex HPC Workflows.  ICPADS 2025 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/ICPADS25.pdf)
   * Jiyuan Liu, Xinwang Liu, Xinhang Wan, Ke Liang, Weixuan Liang, Sihang Zhou, **Huijun Wu**, Kehua Guo. Incomplete Multi-view Deep Clustering with Data Imputation and Alignment. NeurIPS 2025 (**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/NeurIPS25.pdf)
   * Mingtian Shao, Ruibo Wang, Wenzhe Zhang, Kai Lu, Yiqin Dai, **Huijun Wu (corresponding author)**. From Islands to Archipelago: Towards Collaborative and Adaptive Burst Buffer for HPC Systems. ACM ICS 2025 (**CCF-B**). [[Paper]](http://sktzwhj.github.io/files/ICS2025.pdf) 
   * Wanxin Wang, **Huijun Wu (corresponding author)**, Lihua Yang, Zhangyu Liu and Bin Zheng. AIO:Automating I/O Optimization Pipeline for Data-Intensive Applications in HPC. ISPA 2024 (**CCF-C**). [[Paper]](http://sktzwhj.github.io/files/ISPA24.pdf) 
