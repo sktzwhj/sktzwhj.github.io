@@ -39,7 +39,7 @@ author_profile: true
 
 
 
-* Journal papers
+  * Ruibo Wang, Mingtian Shao, Wenzhe Zhang, **Huijun Wu**, Jiaxin Li, Lihua Yang, Di Ma, Yiqin Dai, Kai Lu. Fully Decentralized Data Distribution for Large-scale HPC systems. IEEE Transactions on Parallel and Distributed Systems (2025)（**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS25-2.pdf) 
   * Yiqin Dai, Yong Dong, Min Xie, Wenzhe Zhang, **Huijun Wu**, Mingtian Shao, Kai Lu. MIST: Towards MPI Instant Startup and Termination on Tianhe HPC Systems. IEEE Transactions on Parallel and Distributed Systems (2025)（**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS25.pdf) 
   * Zhangyu Liu, Jinqiu Wang, **Huijun Wu**, Qingzhen Ma, Lin Peng, Zhanyong Tang. Auto-tuning for HPC storage stack: an optimization perspective. CCF Transactions on High Performance Computing (2024) （**CCF-C**).[[Paper]](http://sktzwhj.github.io/files/THPC24.pdf) 
   * Xugang Wu, **Huijun Wu**, Ruibo Wang, Xu Zhou, Kai Lu.Towards adaptive graph neural networks via solving prior-data conflicts. Frontiers of Information Technology & Electronic Engineering (2024) (**CCF-C**).[[Paper]](http://sktzwhj.github.io/files/FITEE24.pdf) 
