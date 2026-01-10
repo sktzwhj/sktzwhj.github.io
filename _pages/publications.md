@@ -40,7 +40,7 @@ author_profile: true
 
 
 * Journal papers
-  * Jingxian Peng, Lihua Yang, **Huijun Wu**, Wenzhe Zhang, Zhenwei Wu, Wei Zhang, Jiaxin Li, Yiqin Dai and Yong Dong. A Survey on Machine Learning-based HPC I/O Analysis and Optimization (2025)（**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS25-3.pdf) 
+  * Jingxian Peng, Lihua Yang, **Huijun Wu**, Wenzhe Zhang, Zhenwei Wu, Wei Zhang, Jiaxin Li, Yiqin Dai and Yong Dong. A Survey on Machine Learning-based HPC I/O Analysis and Optimization (2025). IEEE Transactions on Parallel and Distributed Systems (2025)（**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS25-3.pdf) 
   * Ruibo Wang, Mingtian Shao, Wenzhe Zhang, **Huijun Wu**, Jiaxin Li, Lihua Yang, Di Ma, Yiqin Dai, Kai Lu. Fully Decentralized Data Distribution for Large-scale HPC systems. IEEE Transactions on Parallel and Distributed Systems (2025)（**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS25-2.pdf) 
   * Yiqin Dai, Yong Dong, Min Xie, Wenzhe Zhang, **Huijun Wu**, Mingtian Shao, Kai Lu. MIST: Towards MPI Instant Startup and Termination on Tianhe HPC Systems. IEEE Transactions on Parallel and Distributed Systems (2025)（**CCF-A**). [[Paper]](http://sktzwhj.github.io/files/TPDS25.pdf) 
   * Zhangyu Liu, Jinqiu Wang, **Huijun Wu**, Qingzhen Ma, Lin Peng, Zhanyong Tang. Auto-tuning for HPC storage stack: an optimization perspective. CCF Transactions on High Performance Computing (2024) （**CCF-C**).[[Paper]](http://sktzwhj.github.io/files/THPC24.pdf) 
