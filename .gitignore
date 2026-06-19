@@ -1,0 +1,14 @@
+# Build artifacts (legacy Jekyll; kept ignored in case anyone re-introduces it)
+_site/
+.bundle/
+vendor/
+Gemfile.lock
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Claude / local
+.claude/
